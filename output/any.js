@@ -1,7 +1,7 @@
+"use strict";
 // Any
-let myGf: any = true;
+let myGf = true;
 myGf = "jannath";
 myGf = 37483979398;
-
 let another = "sultana";
-another = 0
+// another = 0;
