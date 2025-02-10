@@ -1,1 +1,0 @@
-let neverMind: never = true;
